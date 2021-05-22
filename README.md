@@ -6,7 +6,14 @@ Face Mask Detection system based on computer vision and deep learning using Open
 - Fine-tuning the model using Data Augmentation.
 ---
 
-## Output of the model over images:
+## Training and Validation Plots:
+
+### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Accuracy: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Loss:
+
+![Accuracy](https://github.com/ankitgoyal0301/COVID-19-Face-Mask-Detector/blob/master/Plots/Plot%20Showing%20Accuracy.png)
+![Loss](https://github.com/ankitgoyal0301/COVID-19-Face-Mask-Detector/blob/master/Plots/Plot%20Showing%20Loss.png)
+
+## Output images:
 
 
-<img src="https://github.com/ankitgoyal0301/COVID-19-Face-Mask-Detector/blob/master/examples/My_Profile_Picture.jpg" alt="Sample Input 1" width="400" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ankitgoyal0301/COVID-19-Face-Mask-Detector/blob/master/Output/My-Image.jpg" alt="Sample Output 1" width="400" height="450">
+<img src="https://github.com/chetankochiyaniya/Face-Mask-Detector/blob/8403d05be77660e5cd447b2c2e0a5d7a24eea3d9/Face%20mask%20detector/output/no_mask.jpg" alt="Sample Input 1" width="400" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/chetankochiyaniya/Face-Mask-Detector/blob/8403d05be77660e5cd447b2c2e0a5d7a24eea3d9/Face%20mask%20detector/output/mask.jpg" alt="Sample Output 1" width="400" height="450">
