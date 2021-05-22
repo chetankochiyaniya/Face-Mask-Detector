@@ -6,14 +6,13 @@ Face Mask Detection system based on computer vision and deep learning using Open
 - Fine-tuning the model using Data Augmentation.
 ---
 
-## Training and Validation Plots:
+## Taining Loss & Accuracy Plot :
 
-### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Accuracy: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Loss:
+<img src="https://github.com/chetankochiyaniya/Face-Mask-Detector/blob/2f06abe90bc80519d9d626d65e4bd8092ce9bcad/Face%20mask%20detector/plot/plot.png" alt="Taining Loss & Accuracy Plot" width="800" height="450">
 
-![Accuracy](https://github.com/ankitgoyal0301/COVID-19-Face-Mask-Detector/blob/master/Plots/Plot%20Showing%20Accuracy.png)
-![Loss](https://github.com/ankitgoyal0301/COVID-19-Face-Mask-Detector/blob/master/Plots/Plot%20Showing%20Loss.png)
+---
 
-## Output images:
+## Output Stream :
 
 
 <img src="https://github.com/chetankochiyaniya/Face-Mask-Detector/blob/8403d05be77660e5cd447b2c2e0a5d7a24eea3d9/Face%20mask%20detector/output/no_mask.jpg" alt="Sample Input 1" width="400" height="450">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/chetankochiyaniya/Face-Mask-Detector/blob/8403d05be77660e5cd447b2c2e0a5d7a24eea3d9/Face%20mask%20detector/output/mask.jpg" alt="Sample Output 1" width="400" height="450">
